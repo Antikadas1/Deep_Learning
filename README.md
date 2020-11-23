@@ -1,4 +1,2 @@
-# Fruit_classification_CNN.py :
-The task is to implement a deep learning classifier of fruit images. The dataset contains segmented images of 60 different fruits and build a CNN network.
-
-
+#This "Deep_Learning" repository contains my task/assignments related to deep learning(course) from my university during my master degree. All notebooks have the precise task information.  
+Disclaimer: I would not encourage any of the existing student of my university (Elte University,Budapest) to copy this code, this is unique code and which may lead you to problem.
